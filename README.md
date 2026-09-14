@@ -27,3 +27,20 @@ The website is designed using Bootstrap's responsive grid system, making it suit
 💻 Desktop
 📱 Mobile
 📲 Tablet
+
+🎯 Project Purpose
+
+This project was created to practice:
+
+HTML5 structure
+Bootstrap 5
+Responsive layouts
+Bootstrap grid system
+Bootstrap cards
+Forms and buttons
+Navigation components
+▶️ How to Run
+Download or clone this repository.
+Open the project folder.
+Open index.html in any web browser.
+Explore the Job Search Portal.
