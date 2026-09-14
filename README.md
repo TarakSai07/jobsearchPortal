@@ -14,3 +14,16 @@ Job cards with company, location, and description
 "Apply Now" buttons
 Responsive design for different screen sizes
 Bootstrap components and utility classes
+
+5.3.3
+📂 Project Structure
+Job-Search-Portal/
+│
+└── index.html
+📱 Responsive Design
+
+The website is designed using Bootstrap's responsive grid system, making it suitable for:
+
+💻 Desktop
+📱 Mobile
+📲 Tablet
