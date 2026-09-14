@@ -38,6 +38,12 @@ Responsive layouts
 Bootstrap grid system
 Bootstrap cards
 Forms and buttons
+
+👨‍💻 Author
+
+Tarak Sai
+
+⭐ If you find this project useful, consider giving the repository a star!
 Navigation components
 ▶️ How to Run
 Download or clone this repository.
