@@ -67,3 +67,18 @@ Job-Search-Portal/
 └── index.html
 
 The project is implemented using a single index.html file.
+
+🎯 Project Purpose
+
+This project was created to practice:
+
+HTML5 page structure
+Bootstrap 5
+Bootstrap grid system
+Responsive layouts
+Navigation bars
+Forms
+Input fields
+Buttons
+Bootstrap cards
+Responsive web design
