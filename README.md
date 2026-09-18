@@ -92,6 +92,26 @@ The Job Search Portal will be displayed.
 No additional installation or server setup is required.
 
 📱 Responsive Design
+The website supports:
+
+💻 Desktop screens
+📲 Tablet screens
+📱 Mobile screens
+
+⚠️ Project Limitations
+
+This is a frontend-only project.
+
+The current project does not include:
+
+Backend server
+Database
+Real job search API
+User authentication
+Real job application processing
+Real company/job data
+
+The search form and Apply Now buttons are part of the frontend interface.
 
 The website supports:
 
