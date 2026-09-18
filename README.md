@@ -58,3 +58,12 @@ Apply Now buttons
 Footer
 
 Bootstrap utility classes and components are used to create the user interface.
+
+🛠️ Technologies Used
+HTML5
+Bootstrap 5
+📂 Project Structure
+Job-Search-Portal/
+└── index.html
+
+The project is implemented using a single index.html file.
