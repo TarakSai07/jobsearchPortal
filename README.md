@@ -82,3 +82,19 @@ Input fields
 Buttons
 Bootstrap cards
 Responsive web design
+
+▶️ How to Run
+Download or clone this repository.
+Open the project folder.
+Open index.html in a modern web browser.
+The Job Search Portal will be displayed.
+
+No additional installation or server setup is required.
+
+📱 Responsive Design
+
+The website supports:
+
+💻 Desktop screens
+📲 Tablet screens
+📱 Mobile screens
