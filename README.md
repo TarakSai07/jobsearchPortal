@@ -34,3 +34,14 @@ Company name
 Job location
 Job description
 Apply Now button
+
+📱 Responsive Design
+
+The layout is responsive and adapts to:
+
+Desktop
+Tablet
+Mobile
+
+Bootstrap's responsive grid classes are used to arrange the search fields and job cards.
+
