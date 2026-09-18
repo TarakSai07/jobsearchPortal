@@ -134,3 +134,11 @@ Backend API
 Database integration
 Company profiles
 Admin dashboard
+
+👨‍💻 Author
+
+Tarak Sai
+
+📄 License
+
+This project is created for educational and learning purposes.
