@@ -22,3 +22,15 @@ Company input
 Search button
 
 The search interface is designed using Bootstrap's responsive grid system.
+
+📋 Latest Job Listings
+
+The website displays latest job listings using Bootstrap cards.
+
+Each job card contains:
+
+Job title
+Company name
+Job location
+Job description
+Apply Now button
