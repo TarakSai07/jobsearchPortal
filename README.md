@@ -118,3 +118,19 @@ The website supports:
 💻 Desktop screens
 📲 Tablet screens
 📱 Mobile screens
+
+🔮 Future Improvements
+
+The project can be extended with:
+
+Job search functionality using JavaScript
+Job filtering
+Job sorting
+Job details page
+User registration and login
+Resume upload
+Job application system
+Backend API
+Database integration
+Company profiles
+Admin dashboard
