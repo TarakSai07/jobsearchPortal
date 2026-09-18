@@ -11,3 +11,14 @@ Jobs navigation
 Companies navigation
 About Us navigation
 Contact navigation
+
+🔎 Job Search
+
+The website provides a job search form with:
+
+Keywords input
+Location input
+Company input
+Search button
+
+The search interface is designed using Bootstrap's responsive grid system.
