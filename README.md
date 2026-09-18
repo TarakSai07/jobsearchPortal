@@ -45,3 +45,16 @@ Mobile
 
 Bootstrap's responsive grid classes are used to arrange the search fields and job cards.
 
+🎨 User Interface
+
+The website contains:
+
+Header section
+Navigation bar
+Job search section
+Latest job listings section
+Job cards
+Apply Now buttons
+Footer
+
+Bootstrap utility classes and components are used to create the user interface.
